@@ -1,0 +1,1 @@
+# Microsoft.Mac.Svg
