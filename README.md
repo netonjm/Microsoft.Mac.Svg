@@ -17,20 +17,21 @@ I included an example proyect to try the library, just copy the code in the sour
 
 
 # Implemented:
-Paths
-Lines
-Fonts
-Circles
-Rectangles
-Group properties inherithing
+* Paths
+* Lines
+* Fonts
+* Circles
+* Rectangles
+* Group properties inherithing
 
 # TODO:
-Styles
-Urls and embeded images
-Shadows
-Ovals
-More properties (fill-rule, clip-rule ...)
-What to expect:
+* Styles
+* Urls and embeded images
+* Shadows
+* Ovals
+* More properties (fill-rule, clip-rule ...)
+
+# What to expect:
 Perfect to import simple draws for icons from Figma
 Complex scenarios are out of scope for now
 How to use with Figma
